@@ -1,0 +1,7 @@
+Nota ejemplo 1
+- Primer comentario
+- Segundo comentario 
+- Comentario tres
+
+------------------ Línea 1 ------------------
+------------------ Línea 2 ------------------
